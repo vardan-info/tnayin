@@ -1,0 +1,16 @@
+public class Main {
+
+    public static void main(String[] args) {
+        int sum =1;
+        for(int i =70; i <90; i++){
+            if(i % 70!=0 && 91% i!=0){
+               sum++;
+            }
+
+
+        }
+        System.out.println(sum);
+    }
+
+}
+
